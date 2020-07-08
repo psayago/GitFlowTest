@@ -1,1 +1,4 @@
-console.log("hello world!")
+function sumar(){
+    console.log("suma");
+}
+console.log("hello world!");
